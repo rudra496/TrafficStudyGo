@@ -1,0 +1,46 @@
+TrafficStudy Educational Use License (TEUL v1.0)
+
+Copyright (c) 2026 Rudra Sarker
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to use,
+copy, modify, and distribute the Software, subject to the following conditions:
+
+1. EDUCATIONAL AND RESEARCH PURPOSE ONLY
+   This Software is intended strictly for:
+   - education
+   - academic research
+   - defensive security learning
+   - controlled laboratory testing
+
+2. AUTHORIZED ENVIRONMENTS ONLY
+   Any traffic-generation, stress-testing, or simulation code included in this
+   repository MUST be executed only:
+   - on systems owned by the user, OR
+   - on systems where the user has explicit written permission.
+
+3. PROHIBITED USES
+   The Software MUST NOT be used for:
+   - unauthorized denial-of-service attacks
+   - disruption of third-party services
+   - bypassing security controls
+   - commercial attack services (booters, stressers, etc.)
+   - any activity that violates local, national, or international law
+
+4. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+5. LIMITATION OF LIABILITY
+   IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+   DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR
+   OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE
+   USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+6. USER RESPONSIBILITY
+   The user is solely responsible for ensuring that their use of the Software
+   complies with all applicable laws and regulations.
+
+By using, copying, modifying, or distributing this Software, you acknowledge
+that you have read, understood, and agreed to the terms of this license.
